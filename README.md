@@ -111,4 +111,4 @@ To run the tests, follow these steps:
 
 ## Contributing
 
-Feel free to fork the repository, make enhancements, and submit pull requests. For any issues or feature requests, please create an issue on GitHub.
+Contributions are welcome! If you find any issues or have suggestions for improvements, please submit an issue or create a pull request.

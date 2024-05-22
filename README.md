@@ -83,11 +83,22 @@ When prompted for registration, enter the following details:
 - Password: `Password123!`
 
 For task management:
-- Task Name: `Develop Feature`
-- Task Description: `Implement the feature as per requirements`
-- Developer Details: `Jane Smith`
-- Task Duration: `10`
+- Task Number: '2'
+- Task Name: `Login Feature`
+- Task Description: `Create Login to authenticate users`
+- Developer Details: `Robyn Harrison`
+- Task Duration: `8hrs`
 - Task Status: `To Do`
+
+Task 2
+- For task management:
+- Task Name: `Add Task Feature`
+- Task Description: `Create Add Task feature to add task users`
+- Developer Details: `Mike Smith`
+- Task Duration: `10hrs`
+- Task Status: `Doing`
+
+- Total Hours: 18Hrs
 
 #### Testing
 

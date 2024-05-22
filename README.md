@@ -6,14 +6,14 @@ Welcome to the Lindokuhle Zwane PROG5121 POE Part 2 Project!
 
 This project is a Java application that includes functionalities for creating accounts, logging in, and managing tasks with a GUI interface.
 
-## Prerequisites
+## 1. Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 - You have installed Java Development Kit (JDK) 8 or later.
 - You have installed an IDE like IntelliJ IDEA, Eclipse, or NetBeans.
 - You have installed Git.
 
-## Installation
+## 2. Installation
 
 To install the project, follow these steps:
 
@@ -70,7 +70,7 @@ To install the project, follow these steps:
     - Locate the `com.mycompany.LindokuhleAtWork.LoginFeature` class.
     - Right-click on the class and select `Run 'LoginFeature.main()'`.
 
-## Usage
+## 3. Usage
 
 The application allows you to register a new user, log in, and manage tasks. Follow the on-screen prompts to use the application.
 
@@ -109,6 +109,6 @@ To run the tests, follow these steps:
     - Right-click on the `TaskTest` class and select `Run 'TaskTest'`.
     - Ensure all tests pass successfully.
 
-## Contributing
+## 4. Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please submit an issue or create a pull request.

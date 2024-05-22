@@ -109,6 +109,6 @@ To run the tests, follow these steps:
     - Right-click on the `TaskTest` class and select `Run 'TaskTest'`.
     - Ensure all tests pass successfully.
 
-#### Contributing
+## Contributing
 
 Feel free to fork the repository, make enhancements, and submit pull requests. For any issues or feature requests, please create an issue on GitHub.
